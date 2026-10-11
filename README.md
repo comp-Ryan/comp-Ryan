@@ -60,7 +60,7 @@ Outside of code: water polo, swimming, hiking, mountaineering, skiing, surfing, 
 
 | | Hackathon | Project | What we built |
 |---|---|---|---|
-| <img src="assets/logos/early-warning.svg" alt="Early Warning" width="32" height="32"> | Talk to Users Hackathon · Oct 2026 | [Early Warning](https://github.com/natephunt/TalkToUsersHackathonGroup17) | Flags public signs of trouble at a bank's borrowers before they show up in quarterly financials (team, Group 17) |
+| <img src="assets/logos/kestrel.svg" alt="Kestrel" width="32" height="32"> | Talk to Users Hackathon · Oct 2026<br/>🏆 **Semifinalist** (out of ~80 people) | [Kestrel](https://github.com/hjun-escape/Kestrel) · [live](https://kestrel-app.base44.app/welcome) | Flags public signs of trouble at a bank's borrowers before they show up in quarterly financials (team, Group 17) |
 | <img src="assets/logos/ember.svg" alt="Ember" width="32" height="32"> | [JacHacks SF](https://jachacks-sf.devpost.com/) · Jul 2026 | [Ember](https://devpost.com/software/ember-ol08u4) | A voice companion with a 3D avatar and reminders, built in Jac |
 | <img src="assets/logos/verifi.svg" alt="Verifi" width="32" height="32"> | GDG Stanford × DeepMind · Jul 2026 | [Verifi](https://github.com/comp-Ryan/Verifi) | Live fact-checking for founder pitches with the Gemini Live API |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/bankquest-white.png"><img src="assets/logos/bankquest-dark.png" alt="BankQuest" width="32" height="32"></picture> | [GKE Turns 10](https://gketurns10.devpost.com/) · Sep 2025 | [BankQuest](https://devpost.com/software/bankquest) | Gemini savings challenges added as a microservice to Google's Bank of Anthos on GKE |
