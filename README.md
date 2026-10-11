@@ -59,6 +59,5 @@ I love building: electrical hardware, mechanical parts, or software architecture
 | [Verifi](https://github.com/comp-Ryan/Verifi) | Live fact-checking for founder pitches, built at the GDG Stanford x DeepMind Hackathon |
 | [USC KASA](https://usckasa.com) | Ticketing, membership and staff dashboard for USC's Korean American Student Association |
 | Beot | A personal agent with a personal frontend: notes, projects and calendar your AI can read and extend over MCP |
-| [Exposure](https://exposure-delta.vercel.app) | A marketplace connecting athletes with sports photographers |
 
 <p align="center"><sub>More soon.</sub></p>
