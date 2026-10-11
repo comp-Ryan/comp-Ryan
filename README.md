@@ -1,32 +1,65 @@
 <p align="center">
-  <img src="assets/switzerland.jpg" alt="A hiking path through green Swiss mountains under drifting clouds" width="100%">
+  <img src="assets/switzerland.jpg" alt="Swiss mountain peak rising into drifting clouds above a green valley" width="100%">
   <br/><sub>Bergenstauss path, Switzerland · photo by me</sub>
 </p>
 
 <h1 align="center">Hi, I'm Ryan 👋</h1>
 
 <p align="center">
-  Computer Engineering and Computer Science + Math at <b>USC</b>. Currently building at <b>Lryn Music</b>.<br/>
-  Chasing startups and nature's greatest, always striving for something greater.
+  <b>Computer Engineering & Computer Science</b> (joint) at <b>USC</b>, maybe adding Math, Philosophy or Physics.<br/>
+  Currently building at <b>Lryn Music</b>. I love building, and I consider myself a polymath.<br/>
+  Trying to fundraise for my own off-grid van so I can go homeless.
 </p>
 
 <p align="center">
   <a href="https://comp-ryan.github.io/personal_website/"><img alt="Personal website" src="https://img.shields.io/badge/website-comp--ryan.github.io-222222?style=flat-square&logo=githubpages&logoColor=white"></a>
-  <img alt="USC" src="https://img.shields.io/badge/USC-CE%20%2B%20CS%20%2B%20Math-990000?style=flat-square">
+  <a href="https://linkedin.com/in/ryan-lee-7a8209352"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ryan%20Lee-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <img alt="USC" src="https://img.shields.io/badge/USC-CECS%20(joint)-990000?style=flat-square">
   <img alt="Lryn Music" src="https://img.shields.io/badge/building-Lryn%20Music-6E56CF?style=flat-square">
 </p>
 
-## What I build
+## What I'm into
 
 I love building: electrical hardware, mechanical parts, or software architecture. I want to figure out how it works, make it better, and put it into the world fast.
 
 <p>
-  <img alt="AI agents" src="https://img.shields.io/badge/AI%20agents-MCP%20%C2%B7%20Claude%20%C2%B7%20Gemini-D97757?style=flat-square">
+  <img alt="AI" src="https://img.shields.io/badge/AI%20%26%20agents-MCP%20%C2%B7%20Claude%20%C2%B7%20Gemini-D97757?style=flat-square">
+  <img alt="Machine learning" src="https://img.shields.io/badge/machine%20learning-protein%20ML%20(UCI)-0064A4?style=flat-square">
+  <img alt="Quantum computing" src="https://img.shields.io/badge/quantum%20computing-6929C4?style=flat-square">
   <img alt="Quant research" src="https://img.shields.io/badge/quant%20research-futures%20%C2%B7%20prediction%20markets-0B3D91?style=flat-square">
-  <img alt="Full stack" src="https://img.shields.io/badge/full%20stack-web%20apps-149ECA?style=flat-square">
-  <img alt="Bioinformatics" src="https://img.shields.io/badge/research-protein%20ML%20(UCI)-0064A4?style=flat-square">
-  <img alt="Hackathons" src="https://img.shields.io/badge/hackathons-GKE%20Turns%2010%20%C2%B7%20Stanford%20x%20DeepMind-4285F4?style=flat-square">
+  <img alt="Math" src="https://img.shields.io/badge/math-1F6FEB?style=flat-square">
+  <img alt="Physics" src="https://img.shields.io/badge/physics-0E7490?style=flat-square">
+  <img alt="Logic" src="https://img.shields.io/badge/logic-Stanford%20Logic%20Olympiad%20Gold-B8860B?style=flat-square">
+  <img alt="Religious philosophy" src="https://img.shields.io/badge/religious%20philosophy-7C3AED?style=flat-square">
+  <img alt="Hardware" src="https://img.shields.io/badge/hardware-drone%20flight%20controller%20%2B%20frame-E4572E?style=flat-square">
 </p>
+
+Outside of code: water polo, swimming, hiking, mountaineering, skiing, surfing, viola, and photography.
+
+## Currently reading
+
+- *Aquinas: A Beginner's Guide*, Edward Feser
+- *Lord of Mysteries*, Cuttlefish That Loves Diving
+- *The Tatami Galaxy*, Tomihiko Morimi
+- *Designing Data-Intensive Applications*, Martin Kleppmann & Chris Riccomini
+
+## Projects
+
+| Project | What it is |
+|---|---|
+| Startup project | Not revealed yet |
+| [OSS Scout](https://github.com/comp-Ryan/oss-scout) | Finds open-source issues worth contributing to, explains them, and drafts the PR only when you click |
+| [USC KASA](https://usckasa.com) | Ticketing, membership and staff dashboard for USC's Korean American Student Association |
+| [Drone](https://comp-ryan.github.io/personal_website/projects.html) | My own flight controller PCB (EasyEDA) and frame (Fusion 360) |
+
+## Hackathons
+
+| Hackathon | Project | What we built |
+|---|---|---|
+| Talk to Users Hackathon · Oct 2026 | [Early Warning](https://github.com/natephunt/TalkToUsersHackathonGroup17) | Flags public signs of trouble at a bank's borrowers before they show up in quarterly financials (team, Group 17) |
+| [JacHacks SF](https://jachacks-sf.devpost.com/) · Jul 2026 | [Ember](https://devpost.com/software/ember-ol08u4) | A voice companion with a 3D avatar and reminders, built in Jac |
+| GDG Stanford × DeepMind · Jul 2026 | [Verifi](https://github.com/comp-Ryan/Verifi) | Live fact-checking for founder pitches with the Gemini Live API |
+| [GKE Turns 10](https://gketurns10.devpost.com/) · Sep 2025 | [BankQuest](https://devpost.com/software/bankquest) | Gemini savings challenges added as a microservice to Google's Bank of Anthos on GKE |
 
 ## Tools I use
 
@@ -45,19 +78,11 @@ I love building: electrical hardware, mechanical parts, or software architecture
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel">
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img alt="Fusion 360" src="https://img.shields.io/badge/Fusion%20360-CAD-F26B21?style=flat-square&logo=autodesk&logoColor=white">
+  <img alt="EasyEDA" src="https://img.shields.io/badge/EasyEDA-PCB-1E88E5?style=flat-square">
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white">
 </p>
-
-## Projects
-
-| Project | What it is |
-|---|---|
-| [OSS Scout](https://github.com/comp-Ryan/oss-scout) | Finds open-source issues worth contributing to, explains them, and drafts the PR only when you click |
-| [BankQuest](https://github.com/comp-Ryan/gke-hackathon-Financial-Coach) | Gemini savings challenges on Google's Bank of Anthos, built for the GKE Turns 10 Hackathon |
-| [Verifi](https://github.com/comp-Ryan/Verifi) | Live fact-checking for founder pitches, built at the GDG Stanford x DeepMind Hackathon |
-| [USC KASA](https://usckasa.com) | Ticketing, membership and staff dashboard for USC's Korean American Student Association |
-| Beot | A personal agent with a personal frontend: notes, projects and calendar your AI can read and extend over MCP |
 
 <p align="center"><sub>More soon.</sub></p>
