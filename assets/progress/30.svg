@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="14" viewBox="0 0 160 14" role="img" aria-label="30 percent read">
+  <rect width="120" height="10" y="2" rx="5" fill="#8b949e" fill-opacity="0.35"/>
+  <rect width="36" height="10" y="2" rx="5" fill="#3fb950"/>
+  <text x="128" y="11" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="10" fill="#8b949e">30%</text>
+</svg>

@@ -38,28 +38,32 @@ Outside of code: water polo, swimming, hiking, mountaineering, skiing, surfing, 
 
 ## Currently reading
 
-- *Aquinas: A Beginner's Guide*, Edward Feser
-- *Lord of Mysteries*, Cuttlefish That Loves Diving
-- *The Tatami Galaxy*, Tomihiko Morimi
-- *Designing Data-Intensive Applications*, Martin Kleppmann & Chris Riccomini
+| Book | Author | Progress |
+|---|---|---|
+| *Aquinas: A Beginner's Guide* | Edward Feser | <img src="assets/progress/40.svg" alt="40% read"> |
+| *Lord of Mysteries* | Cuttlefish That Loves Diving | <img src="assets/progress/40.svg" alt="40% read"> |
+| *The Tatami Galaxy* | Tomihiko Morimi | <img src="assets/progress/30.svg" alt="30% read"> |
+| *Designing Data-Intensive Applications* (2nd ed.) | Martin Kleppmann & Chris Riccomini | <img src="assets/progress/10.svg" alt="10% read"> |
+| *Mathematics for Machine Learning* | Deisenroth, Faisal & Ong | <img src="assets/progress/10.svg" alt="10% read"> |
+| *The Art of Problem Solving* (Vol. 1 & 2) | Rusczyk & Lehoczky | <img src="assets/progress/10.svg" alt="10% read"> |
 
 ## Projects
 
-| Project | What it is |
-|---|---|
-| Startup project | Not revealed yet |
-| [OSS Scout](https://github.com/comp-Ryan/oss-scout) | Finds open-source issues worth contributing to, explains them, and drafts the PR only when you click |
-| [USC KASA](https://usckasa.com) | Ticketing, membership and staff dashboard for USC's Korean American Student Association |
-| [Drone](https://comp-ryan.github.io/personal_website/projects.html) | My own flight controller PCB (EasyEDA) and frame (Fusion 360) |
+| | Project | What it is |
+|---|---|---|
+| <img src="assets/logos/startup.svg" alt="Startup" width="32" height="32"> | Startup project | Not revealed yet |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/oss-scout-white.svg"><img src="assets/logos/oss-scout-dark.svg" alt="OSS Scout" width="32" height="32"></picture> | [OSS Scout](https://github.com/comp-Ryan/oss-scout) | Finds open-source issues worth contributing to, explains them, and drafts the PR only when you click |
+| <img src="assets/logos/kasa.jpg" alt="USC KASA" width="32" height="32"> | [USC KASA](https://usckasa.com) | Ticketing, membership and staff dashboard for USC's Korean American Student Association |
+| <img src="assets/logos/drone.svg" alt="Drone" width="32" height="32"> | [Drone](https://comp-ryan.github.io/personal_website/projects.html) | My own flight controller PCB (EasyEDA) and frame (Fusion 360) |
 
 ## Hackathons
 
-| Hackathon | Project | What we built |
-|---|---|---|
-| Talk to Users Hackathon · Oct 2026 | [Early Warning](https://github.com/natephunt/TalkToUsersHackathonGroup17) | Flags public signs of trouble at a bank's borrowers before they show up in quarterly financials (team, Group 17) |
-| [JacHacks SF](https://jachacks-sf.devpost.com/) · Jul 2026 | [Ember](https://devpost.com/software/ember-ol08u4) | A voice companion with a 3D avatar and reminders, built in Jac |
-| GDG Stanford × DeepMind · Jul 2026 | [Verifi](https://github.com/comp-Ryan/Verifi) | Live fact-checking for founder pitches with the Gemini Live API |
-| [GKE Turns 10](https://gketurns10.devpost.com/) · Sep 2025 | [BankQuest](https://devpost.com/software/bankquest) | Gemini savings challenges added as a microservice to Google's Bank of Anthos on GKE |
+| | Hackathon | Project | What we built |
+|---|---|---|---|
+| <img src="assets/logos/early-warning.svg" alt="Early Warning" width="32" height="32"> | Talk to Users Hackathon · Oct 2026 | [Early Warning](https://github.com/natephunt/TalkToUsersHackathonGroup17) | Flags public signs of trouble at a bank's borrowers before they show up in quarterly financials (team, Group 17) |
+| <img src="assets/logos/ember.svg" alt="Ember" width="32" height="32"> | [JacHacks SF](https://jachacks-sf.devpost.com/) · Jul 2026 | [Ember](https://devpost.com/software/ember-ol08u4) | A voice companion with a 3D avatar and reminders, built in Jac |
+| <img src="assets/logos/verifi.svg" alt="Verifi" width="32" height="32"> | GDG Stanford × DeepMind · Jul 2026 | [Verifi](https://github.com/comp-Ryan/Verifi) | Live fact-checking for founder pitches with the Gemini Live API |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/bankquest-white.png"><img src="assets/logos/bankquest-dark.png" alt="BankQuest" width="32" height="32"></picture> | [GKE Turns 10](https://gketurns10.devpost.com/) · Sep 2025 | [BankQuest](https://devpost.com/software/bankquest) | Gemini savings challenges added as a microservice to Google's Bank of Anthos on GKE |
 
 ## Tools I use
 
